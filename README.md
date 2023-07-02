@@ -1,0 +1,1 @@
+- 👋 Hi, I’m Luke Kenline! This is my data portfolio. Everything found here can is intended to demonstrate my technical proficiency, specifically with SQL & Python.
