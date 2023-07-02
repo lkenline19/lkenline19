@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Luke!
 
 🔍 Project Operations Manager | Data Enthusiast
 
