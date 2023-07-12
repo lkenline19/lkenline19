@@ -1,6 +1,6 @@
 👋 Hello, I'm Luke!
 
-🔍 Project Operations Manager | Data Enthusiast
+🔍 Project Operations Manager
 
 🎯 Summary:
 - I am a results-driven project operations manager with four years of experience in the tech industry. My expertise lies in leveraging data to optimize project performance and boost operational efficiency. Utilizing my proficiency in SQL, I work at the intersection of data and implementation to enhance and streamline processes and product development. With a background as a performance manager and onboarding lead, I bring a well-rounded understanding to every project. Currently learning python programming.
